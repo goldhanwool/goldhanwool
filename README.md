@@ -14,8 +14,8 @@
 <img src="https://img.shields.io/badge/Node-green?style=flat-square&logo=Node.js&logoColor=white"></img> <img src="https://img.shields.io/badge/Mysql-grey?style=flat-square&logo=Mysql&logoColor=white"></img> <img src="https://img.shields.io/badge/Express-4B8BBE?style=flat-square&logo=Express&logoColor=white"></img></div>
 
 <h3 align="center">📫Contact</h3>
-<div align="center"><a href="https://devkingstar.tistory.com/"><img src="https://img.shields.io/badge/Blog-20c997?style=flat-square&logo=Blogger&logoColor=white"/></a> 
-<a href="#">
+<!-- <div align="center"><a href="https://devkingstar.tistory.com/"><img src="https://img.shields.io/badge/Blog-20c997?style=flat-square&logo=Blogger&logoColor=white"/></a> 
+<a href="#"> -->
 <img src="https://img.shields.io/badge/goldhanwool@naver.com-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:goldhanwool@naver.com"/></a>
 
 </div>
